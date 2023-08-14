@@ -40,7 +40,11 @@
 
 ![image](https://github.com/HashimHB/Twitter-Sentiment-Analysis/assets/78270317/bf8120b7-f184-4970-be54-d1dff5b08c0f) ![image](https://github.com/HashimHB/Twitter-Sentiment-Analysis/assets/78270317/730ed92f-edaf-4a6e-bb71-b76d3e6dfbef)
 
+<h1 align="center">Publications</h1>
+<p>Convolution Neural Networks Machine Learning model to classify the polarity of a tweet using Gensim Word2VecConvolution Neural Networks Machine Learning model to classify the polarity of a tweet using Gensim Word2Vec
+IEEE · Feb 2, 2023</p>
 
+<pre>https://ieeexplore.ieee.org/document/10028933</pre>
 
 
 
